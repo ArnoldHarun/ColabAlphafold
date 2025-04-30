@@ -1,6 +1,4 @@
-Here's your text converted into Markdown format for a GitHub repository README:
 
-```markdown
 # HBV Mutation Detection Project
 
 ## Overview
