@@ -1,11 +1,14 @@
 
-# HBV Mutation Detection Project
+# Bioinformatics HBV Mutation 
 
 ## Overview
 
-This project focuses on detecting **Hepatitis B Virus (HBV)** mutation carriers in Uganda, specifically targeting **persistent HBsAg mutations** that may contribute to **mother-to-child transmission**. Using bioinformatics tools, the study analyzes protein sequences to identify genetic variations linked to chronic infection, aiming to inform targeted public health interventions.
+This project focuses on detecting **Hepatitis B Virus (HBV)** mutation carriers among individuals, specifically targeting **persistent HBsAg mutations**. Using bioinformatics tools, the study analyzes protein sequences to identify genetic variations linked to chronic infection, aiming to inform targeted public health interventions.
 
-The methodology leverages **whole-genome sequencing**, **gene alignment**, and **protein structure prediction** to detect mutation carriers, addressing the challenge of HBV transmission in a **resource-limited setting**.
+The methodology leverages use of Bioinformatics tools such as **whole-genome sequencing**, **gene alignment** and **protein structure prediction** to detect mutation carriers
+
+# **NOTE**
+**THIS IMPLEMENTATION FOCUSES ON DEMONSTRATING THE USE OF VARIOUS BIOINFORMATICS TOOLS TO IDENTIFY HBsAg MUTATIONS ALTHOUGH PREDICTIONS ARE NOT 100% ACCURATE AND CANNOT BE BASIS FOR MEDICAL CONCLUSION**
 
 ## Objectives
 
