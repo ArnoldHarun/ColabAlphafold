@@ -1,20 +1,21 @@
 
 # Bioinformatics HBV Mutation 
 
+# **Note**
+**THIS IMPLEMENTATION FOCUSES ON DEMONSTRATING THE USE OF VARIOUS BIOINFORMATICS TOOLS TO IDENTIFY HBsAg MUTATIONS ALTHOUGH PREDICTIONS ARE NOT 100% ACCURATE AND CANNOT BE BASIS FOR MEDICAL CONCLUSION**
+
+
 ## Overview
 
 This project focuses on detecting **Hepatitis B Virus (HBV)** mutation carriers among individuals, specifically targeting **persistent HBsAg mutations**. Using bioinformatics tools, the study analyzes protein sequences to identify genetic variations linked to chronic infection, aiming to inform targeted public health interventions.
 
 The methodology leverages use of Bioinformatics tools such as **whole-genome sequencing**, **gene alignment** and **protein structure prediction** to detect mutation carriers
 
-# **NOTE**
-**THIS IMPLEMENTATION FOCUSES ON DEMONSTRATING THE USE OF VARIOUS BIOINFORMATICS TOOLS TO IDENTIFY HBsAg MUTATIONS ALTHOUGH PREDICTIONS ARE NOT 100% ACCURATE AND CANNOT BE BASIS FOR MEDICAL CONCLUSION**
 
 ## Objectives
 
 - Identify HBV mutation carriers with persistent HBsAg mutations in Uganda.
 - Use bioinformatics to analyze protein sequences and predict 3D structures.
-- Provide insights for public health strategies to reduce mother-to-child transmission.
 
 ## Methodology
 
